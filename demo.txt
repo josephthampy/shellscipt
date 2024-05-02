@@ -1,0 +1,7 @@
+shell 
+program 
+is 
+computer 
+script 
+a 
+
